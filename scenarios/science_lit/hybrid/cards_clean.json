@@ -1,0 +1,130 @@
+{
+  "steps": [
+    [
+      {
+        "agent_id": "devA.scout.v1",
+        "name": "ScoutAgent",
+        "description": "Scout help for science tasks.",
+        "tags": [
+          "science",
+          "scout",
+          "baseline"
+        ]
+      },
+      {
+        "agent_id": "devC.scout.v1",
+        "name": "ScoutPro",
+        "description": "Scout support with simple filters and summaries.",
+        "tags": [
+          "science",
+          "scout",
+          "simple"
+        ]
+      },
+      {
+        "agent_id": "devD.scout.v1",
+        "name": "ScoutHelper",
+        "description": "Scout assistance with structured output.",
+        "tags": [
+          "science",
+          "scout",
+          "structured"
+        ]
+      },
+      {
+        "agent_id": "devB.scout.v1",
+        "name": "ScoutAgent",
+        "description": "Scout help for science tasks.",
+        "tags": [
+          "science",
+          "scout",
+          "baseline"
+        ]
+      }
+    ],
+    [
+      {
+        "agent_id": "devA.summarizer.v1",
+        "name": "SummarizerAgent",
+        "description": "Summarizer help for science tasks.",
+        "tags": [
+          "science",
+          "summarizer",
+          "baseline"
+        ]
+      },
+      {
+        "agent_id": "devC.summarizer.v1",
+        "name": "SummarizerPro",
+        "description": "Summarizer support with simple filters and summaries.",
+        "tags": [
+          "science",
+          "summarizer",
+          "simple"
+        ]
+      },
+      {
+        "agent_id": "devD.summarizer.v1",
+        "name": "SummarizerHelper",
+        "description": "Summarizer assistance with structured output.",
+        "tags": [
+          "science",
+          "summarizer",
+          "structured"
+        ]
+      },
+      {
+        "agent_id": "devB.summarizer.v1",
+        "name": "SummarizerAgent",
+        "description": "Summarizer help for science tasks.",
+        "tags": [
+          "science",
+          "summarizer",
+          "baseline"
+        ]
+      }
+    ],
+    [
+      {
+        "agent_id": "devA.citation.v1",
+        "name": "CitationAgent",
+        "description": "Citation help for science tasks.",
+        "tags": [
+          "science",
+          "citation",
+          "baseline"
+        ]
+      },
+      {
+        "agent_id": "devC.citation.v1",
+        "name": "CitationPro",
+        "description": "Citation support with simple filters and summaries.",
+        "tags": [
+          "science",
+          "citation",
+          "simple"
+        ]
+      },
+      {
+        "agent_id": "devD.citation.v1",
+        "name": "CitationHelper",
+        "description": "Citation assistance with structured output.",
+        "tags": [
+          "science",
+          "citation",
+          "structured"
+        ]
+      },
+      {
+        "agent_id": "devB.citation.v1",
+        "name": "CitationAgent",
+        "description": "Citation help for science tasks.",
+        "tags": [
+          "science",
+          "citation",
+          "baseline"
+        ]
+      }
+    ]
+  ]
+}

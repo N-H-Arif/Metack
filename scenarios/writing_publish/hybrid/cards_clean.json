@@ -1,0 +1,130 @@
+{
+  "steps": [
+    [
+      {
+        "agent_id": "devA.outline.v1",
+        "name": "OutlineAgent",
+        "description": "Outline help for writing tasks.",
+        "tags": [
+          "writing",
+          "outline",
+          "baseline"
+        ]
+      },
+      {
+        "agent_id": "devC.outline.v1",
+        "name": "OutlinePro",
+        "description": "Outline support with simple filters and summaries.",
+        "tags": [
+          "writing",
+          "outline",
+          "simple"
+        ]
+      },
+      {
+        "agent_id": "devD.outline.v1",
+        "name": "OutlineHelper",
+        "description": "Outline assistance with structured output.",
+        "tags": [
+          "writing",
+          "outline",
+          "structured"
+        ]
+      },
+      {
+        "agent_id": "devB.outline.v1",
+        "name": "OutlineAgent",
+        "description": "Outline help for writing tasks.",
+        "tags": [
+          "writing",
+          "outline",
+          "baseline"
+        ]
+      }
+    ],
+    [
+      {
+        "agent_id": "devA.draft.v1",
+        "name": "DraftAgent",
+        "description": "Draft help for writing tasks.",
+        "tags": [
+          "writing",
+          "draft",
+          "baseline"
+        ]
+      },
+      {
+        "agent_id": "devC.draft.v1",
+        "name": "DraftPro",
+        "description": "Draft support with simple filters and summaries.",
+        "tags": [
+          "writing",
+          "draft",
+          "simple"
+        ]
+      },
+      {
+        "agent_id": "devD.draft.v1",
+        "name": "DraftHelper",
+        "description": "Draft assistance with structured output.",
+        "tags": [
+          "writing",
+          "draft",
+          "structured"
+        ]
+      },
+      {
+        "agent_id": "devB.draft.v1",
+        "name": "DraftAgent",
+        "description": "Draft help for writing tasks.",
+        "tags": [
+          "writing",
+          "draft",
+          "baseline"
+        ]
+      }
+    ],
+    [
+      {
+        "agent_id": "devA.edit.v1",
+        "name": "EditAgent",
+        "description": "Edit help for writing tasks.",
+        "tags": [
+          "writing",
+          "edit",
+          "baseline"
+        ]
+      },
+      {
+        "agent_id": "devC.edit.v1",
+        "name": "EditPro",
+        "description": "Edit support with simple filters and summaries.",
+        "tags": [
+          "writing",
+          "edit",
+          "simple"
+        ]
+      },
+      {
+        "agent_id": "devD.edit.v1",
+        "name": "EditHelper",
+        "description": "Edit assistance with structured output.",
+        "tags": [
+          "writing",
+          "edit",
+          "structured"
+        ]
+      },
+      {
+        "agent_id": "devB.edit.v1",
+        "name": "EditAgent",
+        "description": "Edit help for writing tasks.",
+        "tags": [
+          "writing",
+          "edit",
+          "baseline"
+        ]
+      }
+    ]
+  ]
+}

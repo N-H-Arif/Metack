@@ -1,0 +1,46 @@
+[
+  {
+    "agent_id": "devA.hotel.v1",
+    "name": "HotelAgent",
+    "description": "Hotel help for travel tasks.",
+    "tags": [
+      "travel",
+      "hotel",
+      "baseline"
+    ]
+  },
+  {
+    "agent_id": "devC.hotel.v1",
+    "name": "HotelPro",
+    "description": "Hotel support with simple filters and summaries.",
+    "tags": [
+      "travel",
+      "hotel",
+      "simple"
+    ]
+  },
+  {
+    "agent_id": "devD.hotel.v1",
+    "name": "HotelHelper",
+    "description": "Hotel assistance with structured output.",
+    "tags": [
+      "travel",
+      "hotel",
+      "structured"
+    ]
+  },
+  {
+    "agent_id": "devB.hotel.v1",
+    "name": "HotelAgent",
+    "description": "Hotel optimized for travel: late-checkin, refundable, handoff. Designed for seamless handoff and clear outputs.",
+    "tags": [
+      "travel",
+      "hotel",
+      "handoff",
+      "late-checkin",
+      "refundable",
+      "handoff",
+      "bundle"
+    ]
+  }
+]

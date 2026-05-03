@@ -1,0 +1,42 @@
+[
+  {
+    "agent_id": "devA.draft.v1",
+    "name": "DraftAgent",
+    "description": "Draft help for writing tasks.",
+    "tags": [
+      "writing",
+      "draft",
+      "baseline"
+    ]
+  },
+  {
+    "agent_id": "devC.draft.v1",
+    "name": "DraftPro",
+    "description": "Draft support with simple filters and summaries.",
+    "tags": [
+      "writing",
+      "draft",
+      "simple"
+    ]
+  },
+  {
+    "agent_id": "devD.draft.v1",
+    "name": "DraftHelper",
+    "description": "Draft assistance with structured output.",
+    "tags": [
+      "writing",
+      "draft",
+      "structured"
+    ]
+  },
+  {
+    "agent_id": "devB.draft.v1",
+    "name": "DraftAgent",
+    "description": "Draft help for writing tasks.",
+    "tags": [
+      "writing",
+      "draft",
+      "baseline"
+    ]
+  }
+]

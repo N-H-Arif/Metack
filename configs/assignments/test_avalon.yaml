@@ -1,0 +1,15 @@
+import: definition.yaml
+
+concurrency:
+  task:
+    avalon-dev-single: 3
+  agent:
+    gpt-4.1-mini: 3
+
+assignments: # List[Assignment] | Assignment
+  - agent: # "task": List[str] | str ,  "agent": List[str] | str
+      - gpt-4.1-mini
+    task:
+      - avalon-dev-single
+
+output: "outputs/{TIMESTAMP}"

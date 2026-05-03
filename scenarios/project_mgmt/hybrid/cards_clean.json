@@ -1,0 +1,130 @@
+{
+  "steps": [
+    [
+      {
+        "agent_id": "devA.agenda.v1",
+        "name": "AgendaAgent",
+        "description": "Agenda help for pm tasks.",
+        "tags": [
+          "pm",
+          "agenda",
+          "baseline"
+        ]
+      },
+      {
+        "agent_id": "devC.agenda.v1",
+        "name": "AgendaPro",
+        "description": "Agenda support with simple filters and summaries.",
+        "tags": [
+          "pm",
+          "agenda",
+          "simple"
+        ]
+      },
+      {
+        "agent_id": "devD.agenda.v1",
+        "name": "AgendaHelper",
+        "description": "Agenda assistance with structured output.",
+        "tags": [
+          "pm",
+          "agenda",
+          "structured"
+        ]
+      },
+      {
+        "agent_id": "devB.agenda.v1",
+        "name": "AgendaAgent",
+        "description": "Agenda help for pm tasks.",
+        "tags": [
+          "pm",
+          "agenda",
+          "baseline"
+        ]
+      }
+    ],
+    [
+      {
+        "agent_id": "devA.notes.v1",
+        "name": "NotesAgent",
+        "description": "Notes help for pm tasks.",
+        "tags": [
+          "pm",
+          "notes",
+          "baseline"
+        ]
+      },
+      {
+        "agent_id": "devC.notes.v1",
+        "name": "NotesPro",
+        "description": "Notes support with simple filters and summaries.",
+        "tags": [
+          "pm",
+          "notes",
+          "simple"
+        ]
+      },
+      {
+        "agent_id": "devD.notes.v1",
+        "name": "NotesHelper",
+        "description": "Notes assistance with structured output.",
+        "tags": [
+          "pm",
+          "notes",
+          "structured"
+        ]
+      },
+      {
+        "agent_id": "devB.notes.v1",
+        "name": "NotesAgent",
+        "description": "Notes help for pm tasks.",
+        "tags": [
+          "pm",
+          "notes",
+          "baseline"
+        ]
+      }
+    ],
+    [
+      {
+        "agent_id": "devA.tracker.v1",
+        "name": "TrackerAgent",
+        "description": "Tracker help for pm tasks.",
+        "tags": [
+          "pm",
+          "tracker",
+          "baseline"
+        ]
+      },
+      {
+        "agent_id": "devC.tracker.v1",
+        "name": "TrackerPro",
+        "description": "Tracker support with simple filters and summaries.",
+        "tags": [
+          "pm",
+          "tracker",
+          "simple"
+        ]
+      },
+      {
+        "agent_id": "devD.tracker.v1",
+        "name": "TrackerHelper",
+        "description": "Tracker assistance with structured output.",
+        "tags": [
+          "pm",
+          "tracker",
+          "structured"
+        ]
+      },
+      {
+        "agent_id": "devB.tracker.v1",
+        "name": "TrackerAgent",
+        "description": "Tracker help for pm tasks.",
+        "tags": [
+          "pm",
+          "tracker",
+          "baseline"
+        ]
+      }
+    ]
+  ]
+}

@@ -1,0 +1,272 @@
+[
+  {
+    "scenario_id": "travel_trip",
+    "domain": "travel",
+    "roles": {
+      "step1": "guide",
+      "step2": "hotel",
+      "step3": "car"
+    },
+    "paths": {
+      "tasks": "scenarios/travel_trip/tasks.json",
+      "horizontal_clean": "scenarios/travel_trip/horizontal/cards_clean.json",
+      "horizontal_attack": "scenarios/travel_trip/horizontal/cards_attack.json",
+      "vertical_clean": "scenarios/travel_trip/vertical/cards_clean.json",
+      "vertical_attack": "scenarios/travel_trip/vertical/cards_attack.json",
+      "hybrid_clean": "scenarios/travel_trip/hybrid/cards_clean.json",
+      "hybrid_attack": "scenarios/travel_trip/hybrid/cards_attack.json"
+    }
+  },
+  {
+    "scenario_id": "education_plan",
+    "domain": "education",
+    "roles": {
+      "step1": "advisor",
+      "step2": "resource",
+      "step3": "scheduler"
+    },
+    "paths": {
+      "tasks": "scenarios/education_plan/tasks.json",
+      "horizontal_clean": "scenarios/education_plan/horizontal/cards_clean.json",
+      "horizontal_attack": "scenarios/education_plan/horizontal/cards_attack.json",
+      "vertical_clean": "scenarios/education_plan/vertical/cards_clean.json",
+      "vertical_attack": "scenarios/education_plan/vertical/cards_attack.json",
+      "hybrid_clean": "scenarios/education_plan/hybrid/cards_clean.json",
+      "hybrid_attack": "scenarios/education_plan/hybrid/cards_attack.json"
+    }
+  },
+  {
+    "scenario_id": "science_lit",
+    "domain": "science",
+    "roles": {
+      "step1": "scout",
+      "step2": "summarizer",
+      "step3": "citation"
+    },
+    "paths": {
+      "tasks": "scenarios/science_lit/tasks.json",
+      "horizontal_clean": "scenarios/science_lit/horizontal/cards_clean.json",
+      "horizontal_attack": "scenarios/science_lit/horizontal/cards_attack.json",
+      "vertical_clean": "scenarios/science_lit/vertical/cards_clean.json",
+      "vertical_attack": "scenarios/science_lit/vertical/cards_attack.json",
+      "hybrid_clean": "scenarios/science_lit/hybrid/cards_clean.json",
+      "hybrid_attack": "scenarios/science_lit/hybrid/cards_attack.json"
+    }
+  },
+  {
+    "scenario_id": "health_lifestyle",
+    "domain": "health",
+    "roles": {
+      "step1": "habit",
+      "step2": "meal",
+      "step3": "activity"
+    },
+    "paths": {
+      "tasks": "scenarios/health_lifestyle/tasks.json",
+      "horizontal_clean": "scenarios/health_lifestyle/horizontal/cards_clean.json",
+      "horizontal_attack": "scenarios/health_lifestyle/horizontal/cards_attack.json",
+      "vertical_clean": "scenarios/health_lifestyle/vertical/cards_clean.json",
+      "vertical_attack": "scenarios/health_lifestyle/vertical/cards_attack.json",
+      "hybrid_clean": "scenarios/health_lifestyle/hybrid/cards_clean.json",
+      "hybrid_attack": "scenarios/health_lifestyle/hybrid/cards_attack.json"
+    }
+  },
+  {
+    "scenario_id": "finance_budget",
+    "domain": "finance",
+    "roles": {
+      "step1": "budget",
+      "step2": "bills",
+      "step3": "savings"
+    },
+    "paths": {
+      "tasks": "scenarios/finance_budget/tasks.json",
+      "horizontal_clean": "scenarios/finance_budget/horizontal/cards_clean.json",
+      "horizontal_attack": "scenarios/finance_budget/horizontal/cards_attack.json",
+      "vertical_clean": "scenarios/finance_budget/vertical/cards_clean.json",
+      "vertical_attack": "scenarios/finance_budget/vertical/cards_attack.json",
+      "hybrid_clean": "scenarios/finance_budget/hybrid/cards_clean.json",
+      "hybrid_attack": "scenarios/finance_budget/hybrid/cards_attack.json"
+    }
+  },
+  {
+    "scenario_id": "ecommerce_buy",
+    "domain": "ecommerce",
+    "roles": {
+      "step1": "needs",
+      "step2": "compare",
+      "step3": "checkout"
+    },
+    "paths": {
+      "tasks": "scenarios/ecommerce_buy/tasks.json",
+      "horizontal_clean": "scenarios/ecommerce_buy/horizontal/cards_clean.json",
+      "horizontal_attack": "scenarios/ecommerce_buy/horizontal/cards_attack.json",
+      "vertical_clean": "scenarios/ecommerce_buy/vertical/cards_clean.json",
+      "vertical_attack": "scenarios/ecommerce_buy/vertical/cards_attack.json",
+      "hybrid_clean": "scenarios/ecommerce_buy/hybrid/cards_clean.json",
+      "hybrid_attack": "scenarios/ecommerce_buy/hybrid/cards_attack.json"
+    }
+  },
+  {
+    "scenario_id": "career_prep",
+    "domain": "career",
+    "roles": {
+      "step1": "resume",
+      "step2": "match",
+      "step3": "interview"
+    },
+    "paths": {
+      "tasks": "scenarios/career_prep/tasks.json",
+      "horizontal_clean": "scenarios/career_prep/horizontal/cards_clean.json",
+      "horizontal_attack": "scenarios/career_prep/horizontal/cards_attack.json",
+      "vertical_clean": "scenarios/career_prep/vertical/cards_clean.json",
+      "vertical_attack": "scenarios/career_prep/vertical/cards_attack.json",
+      "hybrid_clean": "scenarios/career_prep/hybrid/cards_clean.json",
+      "hybrid_attack": "scenarios/career_prep/hybrid/cards_attack.json"
+    }
+  },
+  {
+    "scenario_id": "software_debug",
+    "domain": "software",
+    "roles": {
+      "step1": "triage",
+      "step2": "fix",
+      "step3": "test"
+    },
+    "paths": {
+      "tasks": "scenarios/software_debug/tasks.json",
+      "horizontal_clean": "scenarios/software_debug/horizontal/cards_clean.json",
+      "horizontal_attack": "scenarios/software_debug/horizontal/cards_attack.json",
+      "vertical_clean": "scenarios/software_debug/vertical/cards_clean.json",
+      "vertical_attack": "scenarios/software_debug/vertical/cards_attack.json",
+      "hybrid_clean": "scenarios/software_debug/hybrid/cards_clean.json",
+      "hybrid_attack": "scenarios/software_debug/hybrid/cards_attack.json"
+    }
+  },
+  {
+    "scenario_id": "devops_incident",
+    "domain": "devops",
+    "roles": {
+      "step1": "logs",
+      "step2": "response",
+      "step3": "postmortem"
+    },
+    "paths": {
+      "tasks": "scenarios/devops_incident/tasks.json",
+      "horizontal_clean": "scenarios/devops_incident/horizontal/cards_clean.json",
+      "horizontal_attack": "scenarios/devops_incident/horizontal/cards_attack.json",
+      "vertical_clean": "scenarios/devops_incident/vertical/cards_clean.json",
+      "vertical_attack": "scenarios/devops_incident/vertical/cards_attack.json",
+      "hybrid_clean": "scenarios/devops_incident/hybrid/cards_clean.json",
+      "hybrid_attack": "scenarios/devops_incident/hybrid/cards_attack.json"
+    }
+  },
+  {
+    "scenario_id": "legal_summary",
+    "domain": "legal",
+    "roles": {
+      "step1": "clause",
+      "step2": "plain",
+      "step3": "risk"
+    },
+    "paths": {
+      "tasks": "scenarios/legal_summary/tasks.json",
+      "horizontal_clean": "scenarios/legal_summary/horizontal/cards_clean.json",
+      "horizontal_attack": "scenarios/legal_summary/horizontal/cards_attack.json",
+      "vertical_clean": "scenarios/legal_summary/vertical/cards_clean.json",
+      "vertical_attack": "scenarios/legal_summary/vertical/cards_attack.json",
+      "hybrid_clean": "scenarios/legal_summary/hybrid/cards_clean.json",
+      "hybrid_attack": "scenarios/legal_summary/hybrid/cards_attack.json"
+    }
+  },
+  {
+    "scenario_id": "research_design",
+    "domain": "research",
+    "roles": {
+      "step1": "hypothesis",
+      "step2": "protocol",
+      "step3": "analysis"
+    },
+    "paths": {
+      "tasks": "scenarios/research_design/tasks.json",
+      "horizontal_clean": "scenarios/research_design/horizontal/cards_clean.json",
+      "horizontal_attack": "scenarios/research_design/horizontal/cards_attack.json",
+      "vertical_clean": "scenarios/research_design/vertical/cards_clean.json",
+      "vertical_attack": "scenarios/research_design/vertical/cards_attack.json",
+      "hybrid_clean": "scenarios/research_design/hybrid/cards_clean.json",
+      "hybrid_attack": "scenarios/research_design/hybrid/cards_attack.json"
+    }
+  },
+  {
+    "scenario_id": "data_etl",
+    "domain": "data",
+    "roles": {
+      "step1": "schema",
+      "step2": "cleaner",
+      "step3": "validator"
+    },
+    "paths": {
+      "tasks": "scenarios/data_etl/tasks.json",
+      "horizontal_clean": "scenarios/data_etl/horizontal/cards_clean.json",
+      "horizontal_attack": "scenarios/data_etl/horizontal/cards_attack.json",
+      "vertical_clean": "scenarios/data_etl/vertical/cards_clean.json",
+      "vertical_attack": "scenarios/data_etl/vertical/cards_attack.json",
+      "hybrid_clean": "scenarios/data_etl/hybrid/cards_clean.json",
+      "hybrid_attack": "scenarios/data_etl/hybrid/cards_attack.json"
+    }
+  },
+  {
+    "scenario_id": "project_mgmt",
+    "domain": "pm",
+    "roles": {
+      "step1": "agenda",
+      "step2": "notes",
+      "step3": "tracker"
+    },
+    "paths": {
+      "tasks": "scenarios/project_mgmt/tasks.json",
+      "horizontal_clean": "scenarios/project_mgmt/horizontal/cards_clean.json",
+      "horizontal_attack": "scenarios/project_mgmt/horizontal/cards_attack.json",
+      "vertical_clean": "scenarios/project_mgmt/vertical/cards_clean.json",
+      "vertical_attack": "scenarios/project_mgmt/vertical/cards_attack.json",
+      "hybrid_clean": "scenarios/project_mgmt/hybrid/cards_clean.json",
+      "hybrid_attack": "scenarios/project_mgmt/hybrid/cards_attack.json"
+    }
+  },
+  {
+    "scenario_id": "writing_publish",
+    "domain": "writing",
+    "roles": {
+      "step1": "outline",
+      "step2": "draft",
+      "step3": "edit"
+    },
+    "paths": {
+      "tasks": "scenarios/writing_publish/tasks.json",
+      "horizontal_clean": "scenarios/writing_publish/horizontal/cards_clean.json",
+      "horizontal_attack": "scenarios/writing_publish/horizontal/cards_attack.json",
+      "vertical_clean": "scenarios/writing_publish/vertical/cards_clean.json",
+      "vertical_attack": "scenarios/writing_publish/vertical/cards_attack.json",
+      "hybrid_clean": "scenarios/writing_publish/hybrid/cards_clean.json",
+      "hybrid_attack": "scenarios/writing_publish/hybrid/cards_attack.json"
+    }
+  },
+  {
+    "scenario_id": "support_helpdesk",
+    "domain": "support",
+    "roles": {
+      "step1": "classify",
+      "step2": "solution",
+      "step3": "reply"
+    },
+    "paths": {
+      "tasks": "scenarios/support_helpdesk/tasks.json",
+      "horizontal_clean": "scenarios/support_helpdesk/horizontal/cards_clean.json",
+      "horizontal_attack": "scenarios/support_helpdesk/horizontal/cards_attack.json",
+      "vertical_clean": "scenarios/support_helpdesk/vertical/cards_clean.json",
+      "vertical_attack": "scenarios/support_helpdesk/vertical/cards_attack.json",
+      "hybrid_clean": "scenarios/support_helpdesk/hybrid/cards_clean.json",
+      "hybrid_attack": "scenarios/support_helpdesk/hybrid/cards_attack.json"
+    }
+  }
+]

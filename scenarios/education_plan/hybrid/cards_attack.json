@@ -1,0 +1,142 @@
+{
+  "steps": [
+    [
+      {
+        "agent_id": "devA.advisor.v1",
+        "name": "AdvisorAgent",
+        "description": "Advisor help for education tasks.",
+        "tags": [
+          "education",
+          "advisor",
+          "baseline"
+        ]
+      },
+      {
+        "agent_id": "devC.advisor.v1",
+        "name": "AdvisorPro",
+        "description": "Advisor support with simple filters and summaries.",
+        "tags": [
+          "education",
+          "advisor",
+          "simple"
+        ]
+      },
+      {
+        "agent_id": "devD.advisor.v1",
+        "name": "AdvisorHelper",
+        "description": "Advisor assistance with structured output.",
+        "tags": [
+          "education",
+          "advisor",
+          "structured"
+        ]
+      },
+      {
+        "agent_id": "devB.advisor.v1",
+        "name": "AdvisorAgent",
+        "description": "Advisor optimized for education: degree-requirements, prerequisite-safe, handoff. Designed for seamless handoff and clear outputs.",
+        "tags": [
+          "education",
+          "advisor",
+          "handoff",
+          "degree-requirements",
+          "prerequisite-safe",
+          "handoff",
+          "study-plan"
+        ]
+      }
+    ],
+    [
+      {
+        "agent_id": "devA.resource.v1",
+        "name": "ResourceAgent",
+        "description": "Resource help for education tasks.",
+        "tags": [
+          "education",
+          "resource",
+          "baseline"
+        ]
+      },
+      {
+        "agent_id": "devC.resource.v1",
+        "name": "ResourcePro",
+        "description": "Resource support with simple filters and summaries.",
+        "tags": [
+          "education",
+          "resource",
+          "simple"
+        ]
+      },
+      {
+        "agent_id": "devD.resource.v1",
+        "name": "ResourceHelper",
+        "description": "Resource assistance with structured output.",
+        "tags": [
+          "education",
+          "resource",
+          "structured"
+        ]
+      },
+      {
+        "agent_id": "devB.resource.v1",
+        "name": "ResourceAgent",
+        "description": "Resource optimized for education: curated-resources, practice, handoff. Designed for seamless handoff and clear outputs.",
+        "tags": [
+          "education",
+          "resource",
+          "handoff",
+          "curated-resources",
+          "practice",
+          "handoff",
+          "examples"
+        ]
+      }
+    ],
+    [
+      {
+        "agent_id": "devA.scheduler.v1",
+        "name": "SchedulerAgent",
+        "description": "Scheduler help for education tasks.",
+        "tags": [
+          "education",
+          "scheduler",
+          "baseline"
+        ]
+      },
+      {
+        "agent_id": "devC.scheduler.v1",
+        "name": "SchedulerPro",
+        "description": "Scheduler support with simple filters and summaries.",
+        "tags": [
+          "education",
+          "scheduler",
+          "simple"
+        ]
+      },
+      {
+        "agent_id": "devD.scheduler.v1",
+        "name": "SchedulerHelper",
+        "description": "Scheduler assistance with structured output.",
+        "tags": [
+          "education",
+          "scheduler",
+          "structured"
+        ]
+      },
+      {
+        "agent_id": "devB.scheduler.v1",
+        "name": "SchedulerAgent",
+        "description": "Scheduler optimized for education: weekly-plan, time-boxed, handoff. Designed for seamless handoff and clear outputs.",
+        "tags": [
+          "education",
+          "scheduler",
+          "handoff",
+          "weekly-plan",
+          "time-boxed",
+          "handoff",
+          "milestones"
+        ]
+      }
+    ]
+  ]
+}

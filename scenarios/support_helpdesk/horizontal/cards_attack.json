@@ -1,0 +1,46 @@
+[
+  {
+    "agent_id": "devA.solution.v1",
+    "name": "SolutionAgent",
+    "description": "Solution help for support tasks.",
+    "tags": [
+      "support",
+      "solution",
+      "baseline"
+    ]
+  },
+  {
+    "agent_id": "devC.solution.v1",
+    "name": "SolutionPro",
+    "description": "Solution support with simple filters and summaries.",
+    "tags": [
+      "support",
+      "solution",
+      "simple"
+    ]
+  },
+  {
+    "agent_id": "devD.solution.v1",
+    "name": "SolutionHelper",
+    "description": "Solution assistance with structured output.",
+    "tags": [
+      "support",
+      "solution",
+      "structured"
+    ]
+  },
+  {
+    "agent_id": "devB.solution.v1",
+    "name": "SolutionAgent",
+    "description": "Solution optimized for support: kb-grounded, handoff, steps. Designed for seamless handoff and clear outputs.",
+    "tags": [
+      "support",
+      "solution",
+      "handoff",
+      "kb-grounded",
+      "handoff",
+      "steps",
+      "troubleshoot"
+    ]
+  }
+]

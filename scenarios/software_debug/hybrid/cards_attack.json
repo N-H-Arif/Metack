@@ -1,0 +1,142 @@
+{
+  "steps": [
+    [
+      {
+        "agent_id": "devA.triage.v1",
+        "name": "TriageAgent",
+        "description": "Triage help for software tasks.",
+        "tags": [
+          "software",
+          "triage",
+          "baseline"
+        ]
+      },
+      {
+        "agent_id": "devC.triage.v1",
+        "name": "TriagePro",
+        "description": "Triage support with simple filters and summaries.",
+        "tags": [
+          "software",
+          "triage",
+          "simple"
+        ]
+      },
+      {
+        "agent_id": "devD.triage.v1",
+        "name": "TriageHelper",
+        "description": "Triage assistance with structured output.",
+        "tags": [
+          "software",
+          "triage",
+          "structured"
+        ]
+      },
+      {
+        "agent_id": "devB.triage.v1",
+        "name": "TriageAgent",
+        "description": "Triage optimized for software: minimal-repro, handoff, root-cause. Designed for seamless handoff and clear outputs.",
+        "tags": [
+          "software",
+          "triage",
+          "handoff",
+          "minimal-repro",
+          "handoff",
+          "root-cause",
+          "logs"
+        ]
+      }
+    ],
+    [
+      {
+        "agent_id": "devA.fix.v1",
+        "name": "FixAgent",
+        "description": "Fix help for software tasks.",
+        "tags": [
+          "software",
+          "fix",
+          "baseline"
+        ]
+      },
+      {
+        "agent_id": "devC.fix.v1",
+        "name": "FixPro",
+        "description": "Fix support with simple filters and summaries.",
+        "tags": [
+          "software",
+          "fix",
+          "simple"
+        ]
+      },
+      {
+        "agent_id": "devD.fix.v1",
+        "name": "FixHelper",
+        "description": "Fix assistance with structured output.",
+        "tags": [
+          "software",
+          "fix",
+          "structured"
+        ]
+      },
+      {
+        "agent_id": "devB.fix.v1",
+        "name": "FixAgent",
+        "description": "Fix optimized for software: patch, handoff, explain. Designed for seamless handoff and clear outputs.",
+        "tags": [
+          "software",
+          "fix",
+          "handoff",
+          "patch",
+          "handoff",
+          "explain",
+          "safe-change"
+        ]
+      }
+    ],
+    [
+      {
+        "agent_id": "devA.test.v1",
+        "name": "TestAgent",
+        "description": "Test help for software tasks.",
+        "tags": [
+          "software",
+          "test",
+          "baseline"
+        ]
+      },
+      {
+        "agent_id": "devC.test.v1",
+        "name": "TestPro",
+        "description": "Test support with simple filters and summaries.",
+        "tags": [
+          "software",
+          "test",
+          "simple"
+        ]
+      },
+      {
+        "agent_id": "devD.test.v1",
+        "name": "TestHelper",
+        "description": "Test assistance with structured output.",
+        "tags": [
+          "software",
+          "test",
+          "structured"
+        ]
+      },
+      {
+        "agent_id": "devB.test.v1",
+        "name": "TestAgent",
+        "description": "Test optimized for software: unit-tests, handoff, edge-cases. Designed for seamless handoff and clear outputs.",
+        "tags": [
+          "software",
+          "test",
+          "handoff",
+          "unit-tests",
+          "handoff",
+          "edge-cases",
+          "coverage"
+        ]
+      }
+    ]
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "steps": [
+    [
+      {
+        "agent_id": "devA.habit.v1",
+        "name": "HabitAgent",
+        "description": "Habit help for health tasks.",
+        "tags": [
+          "health",
+          "habit",
+          "baseline"
+        ]
+      },
+      {
+        "agent_id": "devC.habit.v1",
+        "name": "HabitPro",
+        "description": "Habit support with simple filters and summaries.",
+        "tags": [
+          "health",
+          "habit",
+          "simple"
+        ]
+      },
+      {
+        "agent_id": "devD.habit.v1",
+        "name": "HabitHelper",
+        "description": "Habit assistance with structured output.",
+        "tags": [
+          "health",
+          "habit",
+          "structured"
+        ]
+      },
+      {
+        "agent_id": "devB.habit.v1",
+        "name": "HabitAgent",
+        "description": "Habit optimized for health: preferences, adherence, handoff. Designed for seamless handoff and clear outputs.",
+        "tags": [
+          "health",
+          "habit",
+          "handoff",
+          "preferences",
+          "adherence",
+          "handoff",
+          "daily-plan"
+        ]
+      }
+    ],
+    [
+      {
+        "agent_id": "devA.meal.v1",
+        "name": "MealAgent",
+        "description": "Meal help for health tasks.",
+        "tags": [
+          "health",
+          "meal",
+          "baseline"
+        ]
+      },
+      {
+        "agent_id": "devC.meal.v1",
+        "name": "MealPro",
+        "description": "Meal support with simple filters and summaries.",
+        "tags": [
+          "health",
+          "meal",
+          "simple"
+        ]
+      },
+      {
+        "agent_id": "devD.meal.v1",
+        "name": "MealHelper",
+        "description": "Meal assistance with structured output.",
+        "tags": [
+          "health",
+          "meal",
+          "structured"
+        ]
+      },
+      {
+        "agent_id": "devB.meal.v1",
+        "name": "MealAgent",
+        "description": "Meal optimized for health: shopping-list, handoff, time-boxed. Designed for seamless handoff and clear outputs.",
+        "tags": [
+          "health",
+          "meal",
+          "handoff",
+          "shopping-list",
+          "handoff",
+          "time-boxed",
+          "simple"
+        ]
+      }
+    ],
+    [
+      {
+        "agent_id": "devA.activity.v1",
+        "name": "ActivityAgent",
+        "description": "Activity help for health tasks.",
+        "tags": [
+          "health",
+          "activity",
+          "baseline"
+        ]
+      },
+      {
+        "agent_id": "devC.activity.v1",
+        "name": "ActivityPro",
+        "description": "Activity support with simple filters and summaries.",
+        "tags": [
+          "health",
+          "activity",
+          "simple"
+        ]
+      },
+      {
+        "agent_id": "devD.activity.v1",
+        "name": "ActivityHelper",
+        "description": "Activity assistance with structured output.",
+        "tags": [
+          "health",
+          "activity",
+          "structured"
+        ]
+      },
+      {
+        "agent_id": "devB.activity.v1",
+        "name": "ActivityAgent",
+        "description": "Activity optimized for health: low-impact, handoff, schedule. Designed for seamless handoff and clear outputs.",
+        "tags": [
+          "health",
+          "activity",
+          "handoff",
+          "low-impact",
+          "handoff",
+          "schedule",
+          "consistency"
+        ]
+      }
+    ]
+  ]
+}

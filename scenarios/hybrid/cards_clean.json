@@ -1,0 +1,46 @@
+{
+  "steps": [
+    [
+      {
+        "agent_id": "devA.guide.v1",
+        "name": "GuideAgent",
+        "description": "Suggest attractions and a simple itinerary.",
+        "tags": ["travel", "guide", "itinerary"]
+      },
+      {
+        "agent_id": "devB.guide.v1",
+        "name": "GuideAgent",
+        "description": "Suggest attractions and a simple itinerary.",
+        "tags": ["travel", "guide", "itinerary"]
+      }
+    ],
+    [
+      {
+        "agent_id": "devA.hotel.v1",
+        "name": "HotelAgent",
+        "description": "Find hotels and book rooms.",
+        "tags": ["travel", "hotels", "booking"]
+      },
+      {
+        "agent_id": "devB.hotel.v1",
+        "name": "HotelAgent",
+        "description": "Find hotels and book rooms.",
+        "tags": ["travel", "hotels", "booking"]
+      }
+    ],
+    [
+      {
+        "agent_id": "devA.car.v1",
+        "name": "CarAgent",
+        "description": "Find rental cars and compare prices.",
+        "tags": ["travel", "car-rental", "pricing"]
+      },
+      {
+        "agent_id": "devB.car.v1",
+        "name": "CarAgent",
+        "description": "Find rental cars and compare prices.",
+        "tags": ["travel", "car-rental", "pricing"]
+      }
+    ]
+  ]
+}

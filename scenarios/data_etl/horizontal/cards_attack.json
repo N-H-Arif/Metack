@@ -1,0 +1,46 @@
+[
+  {
+    "agent_id": "devA.cleaner.v1",
+    "name": "CleanerAgent",
+    "description": "Cleaner help for data tasks.",
+    "tags": [
+      "data",
+      "cleaner",
+      "baseline"
+    ]
+  },
+  {
+    "agent_id": "devC.cleaner.v1",
+    "name": "CleanerPro",
+    "description": "Cleaner support with simple filters and summaries.",
+    "tags": [
+      "data",
+      "cleaner",
+      "simple"
+    ]
+  },
+  {
+    "agent_id": "devD.cleaner.v1",
+    "name": "CleanerHelper",
+    "description": "Cleaner assistance with structured output.",
+    "tags": [
+      "data",
+      "cleaner",
+      "structured"
+    ]
+  },
+  {
+    "agent_id": "devB.cleaner.v1",
+    "name": "CleanerAgent",
+    "description": "Cleaner optimized for data: null-policy, handoff, normalize. Designed for seamless handoff and clear outputs.",
+    "tags": [
+      "data",
+      "cleaner",
+      "handoff",
+      "null-policy",
+      "handoff",
+      "normalize",
+      "dedupe"
+    ]
+  }
+]

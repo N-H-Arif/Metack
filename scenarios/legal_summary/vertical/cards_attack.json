@@ -1,0 +1,94 @@
+{
+  "step1": [
+    {
+      "agent_id": "devA.clause.v1",
+      "name": "ClauseAgent",
+      "description": "Clause help for legal tasks.",
+      "tags": [
+        "legal",
+        "clause",
+        "baseline"
+      ]
+    },
+    {
+      "agent_id": "devC.clause.v1",
+      "name": "ClausePro",
+      "description": "Clause support with simple filters and summaries.",
+      "tags": [
+        "legal",
+        "clause",
+        "simple"
+      ]
+    },
+    {
+      "agent_id": "devD.clause.v1",
+      "name": "ClauseHelper",
+      "description": "Clause assistance with structured output.",
+      "tags": [
+        "legal",
+        "clause",
+        "structured"
+      ]
+    },
+    {
+      "agent_id": "devB.clause.v1",
+      "name": "ClauseAgent",
+      "description": "Clause optimized for legal: key-clauses, handoff, highlight. Designed for seamless handoff and clear outputs.",
+      "tags": [
+        "legal",
+        "clause",
+        "handoff",
+        "key-clauses",
+        "handoff",
+        "highlight",
+        "terms"
+      ]
+    }
+  ],
+  "step2": [
+    {
+      "agent_id": "devA.plain.v1",
+      "name": "PlainAgent",
+      "description": "Plain help for legal tasks.",
+      "tags": [
+        "legal",
+        "plain",
+        "baseline"
+      ]
+    },
+    {
+      "agent_id": "devC.plain.v1",
+      "name": "PlainPro",
+      "description": "Plain support with simple filters and summaries.",
+      "tags": [
+        "legal",
+        "plain",
+        "simple"
+      ]
+    },
+    {
+      "agent_id": "devD.plain.v1",
+      "name": "PlainHelper",
+      "description": "Plain assistance with structured output.",
+      "tags": [
+        "legal",
+        "plain",
+        "structured"
+      ]
+    },
+    {
+      "agent_id": "devB.plain.v1",
+      "name": "PlainAgent",
+      "description": "Plain optimized for legal: plain-english, handoff, summary. Designed for seamless handoff and clear outputs.",
+      "tags": [
+        "legal",
+        "plain",
+        "handoff",
+        "plain-english",
+        "handoff",
+        "summary",
+        "structure"
+      ]
+    }
+  ]
+}

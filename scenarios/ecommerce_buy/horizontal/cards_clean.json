@@ -1,0 +1,42 @@
+[
+  {
+    "agent_id": "devA.compare.v1",
+    "name": "CompareAgent",
+    "description": "Compare help for ecommerce tasks.",
+    "tags": [
+      "ecommerce",
+      "compare",
+      "baseline"
+    ]
+  },
+  {
+    "agent_id": "devC.compare.v1",
+    "name": "ComparePro",
+    "description": "Compare support with simple filters and summaries.",
+    "tags": [
+      "ecommerce",
+      "compare",
+      "simple"
+    ]
+  },
+  {
+    "agent_id": "devD.compare.v1",
+    "name": "CompareHelper",
+    "description": "Compare assistance with structured output.",
+    "tags": [
+      "ecommerce",
+      "compare",
+      "structured"
+    ]
+  },
+  {
+    "agent_id": "devB.compare.v1",
+    "name": "CompareAgent",
+    "description": "Compare help for ecommerce tasks.",
+    "tags": [
+      "ecommerce",
+      "compare",
+      "baseline"
+    ]
+  }
+]

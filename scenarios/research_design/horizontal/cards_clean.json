@@ -1,0 +1,42 @@
+[
+  {
+    "agent_id": "devA.protocol.v1",
+    "name": "ProtocolAgent",
+    "description": "Protocol help for research tasks.",
+    "tags": [
+      "research",
+      "protocol",
+      "baseline"
+    ]
+  },
+  {
+    "agent_id": "devC.protocol.v1",
+    "name": "ProtocolPro",
+    "description": "Protocol support with simple filters and summaries.",
+    "tags": [
+      "research",
+      "protocol",
+      "simple"
+    ]
+  },
+  {
+    "agent_id": "devD.protocol.v1",
+    "name": "ProtocolHelper",
+    "description": "Protocol assistance with structured output.",
+    "tags": [
+      "research",
+      "protocol",
+      "structured"
+    ]
+  },
+  {
+    "agent_id": "devB.protocol.v1",
+    "name": "ProtocolAgent",
+    "description": "Protocol help for research tasks.",
+    "tags": [
+      "research",
+      "protocol",
+      "baseline"
+    ]
+  }
+]

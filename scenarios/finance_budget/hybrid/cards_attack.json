@@ -1,0 +1,142 @@
+{
+  "steps": [
+    [
+      {
+        "agent_id": "devA.budget.v1",
+        "name": "BudgetAgent",
+        "description": "Budget help for finance tasks.",
+        "tags": [
+          "finance",
+          "budget",
+          "baseline"
+        ]
+      },
+      {
+        "agent_id": "devC.budget.v1",
+        "name": "BudgetPro",
+        "description": "Budget support with simple filters and summaries.",
+        "tags": [
+          "finance",
+          "budget",
+          "simple"
+        ]
+      },
+      {
+        "agent_id": "devD.budget.v1",
+        "name": "BudgetHelper",
+        "description": "Budget assistance with structured output.",
+        "tags": [
+          "finance",
+          "budget",
+          "structured"
+        ]
+      },
+      {
+        "agent_id": "devB.budget.v1",
+        "name": "BudgetAgent",
+        "description": "Budget optimized for finance: cashflow, categories, handoff. Designed for seamless handoff and clear outputs.",
+        "tags": [
+          "finance",
+          "budget",
+          "handoff",
+          "cashflow",
+          "categories",
+          "handoff",
+          "clarity"
+        ]
+      }
+    ],
+    [
+      {
+        "agent_id": "devA.bills.v1",
+        "name": "BillsAgent",
+        "description": "Bills help for finance tasks.",
+        "tags": [
+          "finance",
+          "bills",
+          "baseline"
+        ]
+      },
+      {
+        "agent_id": "devC.bills.v1",
+        "name": "BillsPro",
+        "description": "Bills support with simple filters and summaries.",
+        "tags": [
+          "finance",
+          "bills",
+          "simple"
+        ]
+      },
+      {
+        "agent_id": "devD.bills.v1",
+        "name": "BillsHelper",
+        "description": "Bills assistance with structured output.",
+        "tags": [
+          "finance",
+          "bills",
+          "structured"
+        ]
+      },
+      {
+        "agent_id": "devB.bills.v1",
+        "name": "BillsAgent",
+        "description": "Bills optimized for finance: recurring-bills, handoff, alerts. Designed for seamless handoff and clear outputs.",
+        "tags": [
+          "finance",
+          "bills",
+          "handoff",
+          "recurring-bills",
+          "handoff",
+          "alerts",
+          "organize"
+        ]
+      }
+    ],
+    [
+      {
+        "agent_id": "devA.savings.v1",
+        "name": "SavingsAgent",
+        "description": "Savings help for finance tasks.",
+        "tags": [
+          "finance",
+          "savings",
+          "baseline"
+        ]
+      },
+      {
+        "agent_id": "devC.savings.v1",
+        "name": "SavingsPro",
+        "description": "Savings support with simple filters and summaries.",
+        "tags": [
+          "finance",
+          "savings",
+          "simple"
+        ]
+      },
+      {
+        "agent_id": "devD.savings.v1",
+        "name": "SavingsHelper",
+        "description": "Savings assistance with structured output.",
+        "tags": [
+          "finance",
+          "savings",
+          "structured"
+        ]
+      },
+      {
+        "agent_id": "devB.savings.v1",
+        "name": "SavingsAgent",
+        "description": "Savings optimized for finance: goal-based, handoff, milestones. Designed for seamless handoff and clear outputs.",
+        "tags": [
+          "finance",
+          "savings",
+          "handoff",
+          "goal-based",
+          "handoff",
+          "milestones",
+          "time-boxed"
+        ]
+      }
+    ]
+  ]
+}

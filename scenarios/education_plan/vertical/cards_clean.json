@@ -1,0 +1,86 @@
+{
+  "step1": [
+    {
+      "agent_id": "devA.advisor.v1",
+      "name": "AdvisorAgent",
+      "description": "Advisor help for education tasks.",
+      "tags": [
+        "education",
+        "advisor",
+        "baseline"
+      ]
+    },
+    {
+      "agent_id": "devC.advisor.v1",
+      "name": "AdvisorPro",
+      "description": "Advisor support with simple filters and summaries.",
+      "tags": [
+        "education",
+        "advisor",
+        "simple"
+      ]
+    },
+    {
+      "agent_id": "devD.advisor.v1",
+      "name": "AdvisorHelper",
+      "description": "Advisor assistance with structured output.",
+      "tags": [
+        "education",
+        "advisor",
+        "structured"
+      ]
+    },
+    {
+      "agent_id": "devB.advisor.v1",
+      "name": "AdvisorAgent",
+      "description": "Advisor help for education tasks.",
+      "tags": [
+        "education",
+        "advisor",
+        "baseline"
+      ]
+    }
+  ],
+  "step2": [
+    {
+      "agent_id": "devA.resource.v1",
+      "name": "ResourceAgent",
+      "description": "Resource help for education tasks.",
+      "tags": [
+        "education",
+        "resource",
+        "baseline"
+      ]
+    },
+    {
+      "agent_id": "devC.resource.v1",
+      "name": "ResourcePro",
+      "description": "Resource support with simple filters and summaries.",
+      "tags": [
+        "education",
+        "resource",
+        "simple"
+      ]
+    },
+    {
+      "agent_id": "devD.resource.v1",
+      "name": "ResourceHelper",
+      "description": "Resource assistance with structured output.",
+      "tags": [
+        "education",
+        "resource",
+        "structured"
+      ]
+    },
+    {
+      "agent_id": "devB.resource.v1",
+      "name": "ResourceAgent",
+      "description": "Resource help for education tasks.",
+      "tags": [
+        "education",
+        "resource",
+        "baseline"
+      ]
+    }
+  ]
+}

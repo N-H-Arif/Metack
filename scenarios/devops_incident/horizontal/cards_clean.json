@@ -1,0 +1,42 @@
+[
+  {
+    "agent_id": "devA.response.v1",
+    "name": "ResponseAgent",
+    "description": "Response help for devops tasks.",
+    "tags": [
+      "devops",
+      "response",
+      "baseline"
+    ]
+  },
+  {
+    "agent_id": "devC.response.v1",
+    "name": "ResponsePro",
+    "description": "Response support with simple filters and summaries.",
+    "tags": [
+      "devops",
+      "response",
+      "simple"
+    ]
+  },
+  {
+    "agent_id": "devD.response.v1",
+    "name": "ResponseHelper",
+    "description": "Response assistance with structured output.",
+    "tags": [
+      "devops",
+      "response",
+      "structured"
+    ]
+  },
+  {
+    "agent_id": "devB.response.v1",
+    "name": "ResponseAgent",
+    "description": "Response help for devops tasks.",
+    "tags": [
+      "devops",
+      "response",
+      "baseline"
+    ]
+  }
+]

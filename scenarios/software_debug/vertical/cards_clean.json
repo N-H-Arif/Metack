@@ -1,0 +1,86 @@
+{
+  "step1": [
+    {
+      "agent_id": "devA.triage.v1",
+      "name": "TriageAgent",
+      "description": "Triage help for software tasks.",
+      "tags": [
+        "software",
+        "triage",
+        "baseline"
+      ]
+    },
+    {
+      "agent_id": "devC.triage.v1",
+      "name": "TriagePro",
+      "description": "Triage support with simple filters and summaries.",
+      "tags": [
+        "software",
+        "triage",
+        "simple"
+      ]
+    },
+    {
+      "agent_id": "devD.triage.v1",
+      "name": "TriageHelper",
+      "description": "Triage assistance with structured output.",
+      "tags": [
+        "software",
+        "triage",
+        "structured"
+      ]
+    },
+    {
+      "agent_id": "devB.triage.v1",
+      "name": "TriageAgent",
+      "description": "Triage help for software tasks.",
+      "tags": [
+        "software",
+        "triage",
+        "baseline"
+      ]
+    }
+  ],
+  "step2": [
+    {
+      "agent_id": "devA.fix.v1",
+      "name": "FixAgent",
+      "description": "Fix help for software tasks.",
+      "tags": [
+        "software",
+        "fix",
+        "baseline"
+      ]
+    },
+    {
+      "agent_id": "devC.fix.v1",
+      "name": "FixPro",
+      "description": "Fix support with simple filters and summaries.",
+      "tags": [
+        "software",
+        "fix",
+        "simple"
+      ]
+    },
+    {
+      "agent_id": "devD.fix.v1",
+      "name": "FixHelper",
+      "description": "Fix assistance with structured output.",
+      "tags": [
+        "software",
+        "fix",
+        "structured"
+      ]
+    },
+    {
+      "agent_id": "devB.fix.v1",
+      "name": "FixAgent",
+      "description": "Fix help for software tasks.",
+      "tags": [
+        "software",
+        "fix",
+        "baseline"
+      ]
+    }
+  ]
+}

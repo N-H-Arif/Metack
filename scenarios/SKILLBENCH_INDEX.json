@@ -1,0 +1,272 @@
+[
+  {
+    "scenario_id": "travel_trip",
+    "domain": "travel",
+    "paths": {
+      "horizontal_clean": "scenarios/travel_trip/environment/skills/horizontal/clean",
+      "horizontal_attack": "scenarios/travel_trip/environment/skills/horizontal/attack",
+      "vertical_step1_clean": "scenarios/travel_trip/environment/skills/vertical_step1/clean",
+      "vertical_step1_attack": "scenarios/travel_trip/environment/skills/vertical_step1/attack",
+      "vertical_step2_clean": "scenarios/travel_trip/environment/skills/vertical_step2/clean",
+      "vertical_step2_attack": "scenarios/travel_trip/environment/skills/vertical_step2/attack",
+      "hybrid_step1_clean": "scenarios/travel_trip/environment/skills/hybrid_step1/clean",
+      "hybrid_step1_attack": "scenarios/travel_trip/environment/skills/hybrid_step1/attack",
+      "hybrid_step2_clean": "scenarios/travel_trip/environment/skills/hybrid_step2/clean",
+      "hybrid_step2_attack": "scenarios/travel_trip/environment/skills/hybrid_step2/attack",
+      "hybrid_step3_clean": "scenarios/travel_trip/environment/skills/hybrid_step3/clean",
+      "hybrid_step3_attack": "scenarios/travel_trip/environment/skills/hybrid_step3/attack"
+    }
+  },
+  {
+    "scenario_id": "education_plan",
+    "domain": "education",
+    "paths": {
+      "horizontal_clean": "scenarios/education_plan/environment/skills/horizontal/clean",
+      "horizontal_attack": "scenarios/education_plan/environment/skills/horizontal/attack",
+      "vertical_step1_clean": "scenarios/education_plan/environment/skills/vertical_step1/clean",
+      "vertical_step1_attack": "scenarios/education_plan/environment/skills/vertical_step1/attack",
+      "vertical_step2_clean": "scenarios/education_plan/environment/skills/vertical_step2/clean",
+      "vertical_step2_attack": "scenarios/education_plan/environment/skills/vertical_step2/attack",
+      "hybrid_step1_clean": "scenarios/education_plan/environment/skills/hybrid_step1/clean",
+      "hybrid_step1_attack": "scenarios/education_plan/environment/skills/hybrid_step1/attack",
+      "hybrid_step2_clean": "scenarios/education_plan/environment/skills/hybrid_step2/clean",
+      "hybrid_step2_attack": "scenarios/education_plan/environment/skills/hybrid_step2/attack",
+      "hybrid_step3_clean": "scenarios/education_plan/environment/skills/hybrid_step3/clean",
+      "hybrid_step3_attack": "scenarios/education_plan/environment/skills/hybrid_step3/attack"
+    }
+  },
+  {
+    "scenario_id": "science_lit",
+    "domain": "science",
+    "paths": {
+      "horizontal_clean": "scenarios/science_lit/environment/skills/horizontal/clean",
+      "horizontal_attack": "scenarios/science_lit/environment/skills/horizontal/attack",
+      "vertical_step1_clean": "scenarios/science_lit/environment/skills/vertical_step1/clean",
+      "vertical_step1_attack": "scenarios/science_lit/environment/skills/vertical_step1/attack",
+      "vertical_step2_clean": "scenarios/science_lit/environment/skills/vertical_step2/clean",
+      "vertical_step2_attack": "scenarios/science_lit/environment/skills/vertical_step2/attack",
+      "hybrid_step1_clean": "scenarios/science_lit/environment/skills/hybrid_step1/clean",
+      "hybrid_step1_attack": "scenarios/science_lit/environment/skills/hybrid_step1/attack",
+      "hybrid_step2_clean": "scenarios/science_lit/environment/skills/hybrid_step2/clean",
+      "hybrid_step2_attack": "scenarios/science_lit/environment/skills/hybrid_step2/attack",
+      "hybrid_step3_clean": "scenarios/science_lit/environment/skills/hybrid_step3/clean",
+      "hybrid_step3_attack": "scenarios/science_lit/environment/skills/hybrid_step3/attack"
+    }
+  },
+  {
+    "scenario_id": "health_lifestyle",
+    "domain": "health",
+    "paths": {
+      "horizontal_clean": "scenarios/health_lifestyle/environment/skills/horizontal/clean",
+      "horizontal_attack": "scenarios/health_lifestyle/environment/skills/horizontal/attack",
+      "vertical_step1_clean": "scenarios/health_lifestyle/environment/skills/vertical_step1/clean",
+      "vertical_step1_attack": "scenarios/health_lifestyle/environment/skills/vertical_step1/attack",
+      "vertical_step2_clean": "scenarios/health_lifestyle/environment/skills/vertical_step2/clean",
+      "vertical_step2_attack": "scenarios/health_lifestyle/environment/skills/vertical_step2/attack",
+      "hybrid_step1_clean": "scenarios/health_lifestyle/environment/skills/hybrid_step1/clean",
+      "hybrid_step1_attack": "scenarios/health_lifestyle/environment/skills/hybrid_step1/attack",
+      "hybrid_step2_clean": "scenarios/health_lifestyle/environment/skills/hybrid_step2/clean",
+      "hybrid_step2_attack": "scenarios/health_lifestyle/environment/skills/hybrid_step2/attack",
+      "hybrid_step3_clean": "scenarios/health_lifestyle/environment/skills/hybrid_step3/clean",
+      "hybrid_step3_attack": "scenarios/health_lifestyle/environment/skills/hybrid_step3/attack"
+    }
+  },
+  {
+    "scenario_id": "finance_budget",
+    "domain": "finance",
+    "paths": {
+      "horizontal_clean": "scenarios/finance_budget/environment/skills/horizontal/clean",
+      "horizontal_attack": "scenarios/finance_budget/environment/skills/horizontal/attack",
+      "vertical_step1_clean": "scenarios/finance_budget/environment/skills/vertical_step1/clean",
+      "vertical_step1_attack": "scenarios/finance_budget/environment/skills/vertical_step1/attack",
+      "vertical_step2_clean": "scenarios/finance_budget/environment/skills/vertical_step2/clean",
+      "vertical_step2_attack": "scenarios/finance_budget/environment/skills/vertical_step2/attack",
+      "hybrid_step1_clean": "scenarios/finance_budget/environment/skills/hybrid_step1/clean",
+      "hybrid_step1_attack": "scenarios/finance_budget/environment/skills/hybrid_step1/attack",
+      "hybrid_step2_clean": "scenarios/finance_budget/environment/skills/hybrid_step2/clean",
+      "hybrid_step2_attack": "scenarios/finance_budget/environment/skills/hybrid_step2/attack",
+      "hybrid_step3_clean": "scenarios/finance_budget/environment/skills/hybrid_step3/clean",
+      "hybrid_step3_attack": "scenarios/finance_budget/environment/skills/hybrid_step3/attack"
+    }
+  },
+  {
+    "scenario_id": "ecommerce_buy",
+    "domain": "ecommerce",
+    "paths": {
+      "horizontal_clean": "scenarios/ecommerce_buy/environment/skills/horizontal/clean",
+      "horizontal_attack": "scenarios/ecommerce_buy/environment/skills/horizontal/attack",
+      "vertical_step1_clean": "scenarios/ecommerce_buy/environment/skills/vertical_step1/clean",
+      "vertical_step1_attack": "scenarios/ecommerce_buy/environment/skills/vertical_step1/attack",
+      "vertical_step2_clean": "scenarios/ecommerce_buy/environment/skills/vertical_step2/clean",
+      "vertical_step2_attack": "scenarios/ecommerce_buy/environment/skills/vertical_step2/attack",
+      "hybrid_step1_clean": "scenarios/ecommerce_buy/environment/skills/hybrid_step1/clean",
+      "hybrid_step1_attack": "scenarios/ecommerce_buy/environment/skills/hybrid_step1/attack",
+      "hybrid_step2_clean": "scenarios/ecommerce_buy/environment/skills/hybrid_step2/clean",
+      "hybrid_step2_attack": "scenarios/ecommerce_buy/environment/skills/hybrid_step2/attack",
+      "hybrid_step3_clean": "scenarios/ecommerce_buy/environment/skills/hybrid_step3/clean",
+      "hybrid_step3_attack": "scenarios/ecommerce_buy/environment/skills/hybrid_step3/attack"
+    }
+  },
+  {
+    "scenario_id": "career_prep",
+    "domain": "career",
+    "paths": {
+      "horizontal_clean": "scenarios/career_prep/environment/skills/horizontal/clean",
+      "horizontal_attack": "scenarios/career_prep/environment/skills/horizontal/attack",
+      "vertical_step1_clean": "scenarios/career_prep/environment/skills/vertical_step1/clean",
+      "vertical_step1_attack": "scenarios/career_prep/environment/skills/vertical_step1/attack",
+      "vertical_step2_clean": "scenarios/career_prep/environment/skills/vertical_step2/clean",
+      "vertical_step2_attack": "scenarios/career_prep/environment/skills/vertical_step2/attack",
+      "hybrid_step1_clean": "scenarios/career_prep/environment/skills/hybrid_step1/clean",
+      "hybrid_step1_attack": "scenarios/career_prep/environment/skills/hybrid_step1/attack",
+      "hybrid_step2_clean": "scenarios/career_prep/environment/skills/hybrid_step2/clean",
+      "hybrid_step2_attack": "scenarios/career_prep/environment/skills/hybrid_step2/attack",
+      "hybrid_step3_clean": "scenarios/career_prep/environment/skills/hybrid_step3/clean",
+      "hybrid_step3_attack": "scenarios/career_prep/environment/skills/hybrid_step3/attack"
+    }
+  },
+  {
+    "scenario_id": "software_debug",
+    "domain": "software",
+    "paths": {
+      "horizontal_clean": "scenarios/software_debug/environment/skills/horizontal/clean",
+      "horizontal_attack": "scenarios/software_debug/environment/skills/horizontal/attack",
+      "vertical_step1_clean": "scenarios/software_debug/environment/skills/vertical_step1/clean",
+      "vertical_step1_attack": "scenarios/software_debug/environment/skills/vertical_step1/attack",
+      "vertical_step2_clean": "scenarios/software_debug/environment/skills/vertical_step2/clean",
+      "vertical_step2_attack": "scenarios/software_debug/environment/skills/vertical_step2/attack",
+      "hybrid_step1_clean": "scenarios/software_debug/environment/skills/hybrid_step1/clean",
+      "hybrid_step1_attack": "scenarios/software_debug/environment/skills/hybrid_step1/attack",
+      "hybrid_step2_clean": "scenarios/software_debug/environment/skills/hybrid_step2/clean",
+      "hybrid_step2_attack": "scenarios/software_debug/environment/skills/hybrid_step2/attack",
+      "hybrid_step3_clean": "scenarios/software_debug/environment/skills/hybrid_step3/clean",
+      "hybrid_step3_attack": "scenarios/software_debug/environment/skills/hybrid_step3/attack"
+    }
+  },
+  {
+    "scenario_id": "devops_incident",
+    "domain": "devops",
+    "paths": {
+      "horizontal_clean": "scenarios/devops_incident/environment/skills/horizontal/clean",
+      "horizontal_attack": "scenarios/devops_incident/environment/skills/horizontal/attack",
+      "vertical_step1_clean": "scenarios/devops_incident/environment/skills/vertical_step1/clean",
+      "vertical_step1_attack": "scenarios/devops_incident/environment/skills/vertical_step1/attack",
+      "vertical_step2_clean": "scenarios/devops_incident/environment/skills/vertical_step2/clean",
+      "vertical_step2_attack": "scenarios/devops_incident/environment/skills/vertical_step2/attack",
+      "hybrid_step1_clean": "scenarios/devops_incident/environment/skills/hybrid_step1/clean",
+      "hybrid_step1_attack": "scenarios/devops_incident/environment/skills/hybrid_step1/attack",
+      "hybrid_step2_clean": "scenarios/devops_incident/environment/skills/hybrid_step2/clean",
+      "hybrid_step2_attack": "scenarios/devops_incident/environment/skills/hybrid_step2/attack",
+      "hybrid_step3_clean": "scenarios/devops_incident/environment/skills/hybrid_step3/clean",
+      "hybrid_step3_attack": "scenarios/devops_incident/environment/skills/hybrid_step3/attack"
+    }
+  },
+  {
+    "scenario_id": "legal_summary",
+    "domain": "legal",
+    "paths": {
+      "horizontal_clean": "scenarios/legal_summary/environment/skills/horizontal/clean",
+      "horizontal_attack": "scenarios/legal_summary/environment/skills/horizontal/attack",
+      "vertical_step1_clean": "scenarios/legal_summary/environment/skills/vertical_step1/clean",
+      "vertical_step1_attack": "scenarios/legal_summary/environment/skills/vertical_step1/attack",
+      "vertical_step2_clean": "scenarios/legal_summary/environment/skills/vertical_step2/clean",
+      "vertical_step2_attack": "scenarios/legal_summary/environment/skills/vertical_step2/attack",
+      "hybrid_step1_clean": "scenarios/legal_summary/environment/skills/hybrid_step1/clean",
+      "hybrid_step1_attack": "scenarios/legal_summary/environment/skills/hybrid_step1/attack",
+      "hybrid_step2_clean": "scenarios/legal_summary/environment/skills/hybrid_step2/clean",
+      "hybrid_step2_attack": "scenarios/legal_summary/environment/skills/hybrid_step2/attack",
+      "hybrid_step3_clean": "scenarios/legal_summary/environment/skills/hybrid_step3/clean",
+      "hybrid_step3_attack": "scenarios/legal_summary/environment/skills/hybrid_step3/attack"
+    }
+  },
+  {
+    "scenario_id": "research_design",
+    "domain": "research",
+    "paths": {
+      "horizontal_clean": "scenarios/research_design/environment/skills/horizontal/clean",
+      "horizontal_attack": "scenarios/research_design/environment/skills/horizontal/attack",
+      "vertical_step1_clean": "scenarios/research_design/environment/skills/vertical_step1/clean",
+      "vertical_step1_attack": "scenarios/research_design/environment/skills/vertical_step1/attack",
+      "vertical_step2_clean": "scenarios/research_design/environment/skills/vertical_step2/clean",
+      "vertical_step2_attack": "scenarios/research_design/environment/skills/vertical_step2/attack",
+      "hybrid_step1_clean": "scenarios/research_design/environment/skills/hybrid_step1/clean",
+      "hybrid_step1_attack": "scenarios/research_design/environment/skills/hybrid_step1/attack",
+      "hybrid_step2_clean": "scenarios/research_design/environment/skills/hybrid_step2/clean",
+      "hybrid_step2_attack": "scenarios/research_design/environment/skills/hybrid_step2/attack",
+      "hybrid_step3_clean": "scenarios/research_design/environment/skills/hybrid_step3/clean",
+      "hybrid_step3_attack": "scenarios/research_design/environment/skills/hybrid_step3/attack"
+    }
+  },
+  {
+    "scenario_id": "data_etl",
+    "domain": "data",
+    "paths": {
+      "horizontal_clean": "scenarios/data_etl/environment/skills/horizontal/clean",
+      "horizontal_attack": "scenarios/data_etl/environment/skills/horizontal/attack",
+      "vertical_step1_clean": "scenarios/data_etl/environment/skills/vertical_step1/clean",
+      "vertical_step1_attack": "scenarios/data_etl/environment/skills/vertical_step1/attack",
+      "vertical_step2_clean": "scenarios/data_etl/environment/skills/vertical_step2/clean",
+      "vertical_step2_attack": "scenarios/data_etl/environment/skills/vertical_step2/attack",
+      "hybrid_step1_clean": "scenarios/data_etl/environment/skills/hybrid_step1/clean",
+      "hybrid_step1_attack": "scenarios/data_etl/environment/skills/hybrid_step1/attack",
+      "hybrid_step2_clean": "scenarios/data_etl/environment/skills/hybrid_step2/clean",
+      "hybrid_step2_attack": "scenarios/data_etl/environment/skills/hybrid_step2/attack",
+      "hybrid_step3_clean": "scenarios/data_etl/environment/skills/hybrid_step3/clean",
+      "hybrid_step3_attack": "scenarios/data_etl/environment/skills/hybrid_step3/attack"
+    }
+  },
+  {
+    "scenario_id": "project_mgmt",
+    "domain": "pm",
+    "paths": {
+      "horizontal_clean": "scenarios/project_mgmt/environment/skills/horizontal/clean",
+      "horizontal_attack": "scenarios/project_mgmt/environment/skills/horizontal/attack",
+      "vertical_step1_clean": "scenarios/project_mgmt/environment/skills/vertical_step1/clean",
+      "vertical_step1_attack": "scenarios/project_mgmt/environment/skills/vertical_step1/attack",
+      "vertical_step2_clean": "scenarios/project_mgmt/environment/skills/vertical_step2/clean",
+      "vertical_step2_attack": "scenarios/project_mgmt/environment/skills/vertical_step2/attack",
+      "hybrid_step1_clean": "scenarios/project_mgmt/environment/skills/hybrid_step1/clean",
+      "hybrid_step1_attack": "scenarios/project_mgmt/environment/skills/hybrid_step1/attack",
+      "hybrid_step2_clean": "scenarios/project_mgmt/environment/skills/hybrid_step2/clean",
+      "hybrid_step2_attack": "scenarios/project_mgmt/environment/skills/hybrid_step2/attack",
+      "hybrid_step3_clean": "scenarios/project_mgmt/environment/skills/hybrid_step3/clean",
+      "hybrid_step3_attack": "scenarios/project_mgmt/environment/skills/hybrid_step3/attack"
+    }
+  },
+  {
+    "scenario_id": "writing_publish",
+    "domain": "writing",
+    "paths": {
+      "horizontal_clean": "scenarios/writing_publish/environment/skills/horizontal/clean",
+      "horizontal_attack": "scenarios/writing_publish/environment/skills/horizontal/attack",
+      "vertical_step1_clean": "scenarios/writing_publish/environment/skills/vertical_step1/clean",
+      "vertical_step1_attack": "scenarios/writing_publish/environment/skills/vertical_step1/attack",
+      "vertical_step2_clean": "scenarios/writing_publish/environment/skills/vertical_step2/clean",
+      "vertical_step2_attack": "scenarios/writing_publish/environment/skills/vertical_step2/attack",
+      "hybrid_step1_clean": "scenarios/writing_publish/environment/skills/hybrid_step1/clean",
+      "hybrid_step1_attack": "scenarios/writing_publish/environment/skills/hybrid_step1/attack",
+      "hybrid_step2_clean": "scenarios/writing_publish/environment/skills/hybrid_step2/clean",
+      "hybrid_step2_attack": "scenarios/writing_publish/environment/skills/hybrid_step2/attack",
+      "hybrid_step3_clean": "scenarios/writing_publish/environment/skills/hybrid_step3/clean",
+      "hybrid_step3_attack": "scenarios/writing_publish/environment/skills/hybrid_step3/attack"
+    }
+  },
+  {
+    "scenario_id": "support_helpdesk",
+    "domain": "support",
+    "paths": {
+      "horizontal_clean": "scenarios/support_helpdesk/environment/skills/horizontal/clean",
+      "horizontal_attack": "scenarios/support_helpdesk/environment/skills/horizontal/attack",
+      "vertical_step1_clean": "scenarios/support_helpdesk/environment/skills/vertical_step1/clean",
+      "vertical_step1_attack": "scenarios/support_helpdesk/environment/skills/vertical_step1/attack",
+      "vertical_step2_clean": "scenarios/support_helpdesk/environment/skills/vertical_step2/clean",
+      "vertical_step2_attack": "scenarios/support_helpdesk/environment/skills/vertical_step2/attack",
+      "hybrid_step1_clean": "scenarios/support_helpdesk/environment/skills/hybrid_step1/clean",
+      "hybrid_step1_attack": "scenarios/support_helpdesk/environment/skills/hybrid_step1/attack",
+      "hybrid_step2_clean": "scenarios/support_helpdesk/environment/skills/hybrid_step2/clean",
+      "hybrid_step2_attack": "scenarios/support_helpdesk/environment/skills/hybrid_step2/attack",
+      "hybrid_step3_clean": "scenarios/support_helpdesk/environment/skills/hybrid_step3/clean",
+      "hybrid_step3_attack": "scenarios/support_helpdesk/environment/skills/hybrid_step3/attack"
+    }
+  }
+]

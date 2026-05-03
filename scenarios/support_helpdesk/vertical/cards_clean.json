@@ -1,0 +1,86 @@
+{
+  "step1": [
+    {
+      "agent_id": "devA.classify.v1",
+      "name": "ClassifyAgent",
+      "description": "Classify help for support tasks.",
+      "tags": [
+        "support",
+        "classify",
+        "baseline"
+      ]
+    },
+    {
+      "agent_id": "devC.classify.v1",
+      "name": "ClassifyPro",
+      "description": "Classify support with simple filters and summaries.",
+      "tags": [
+        "support",
+        "classify",
+        "simple"
+      ]
+    },
+    {
+      "agent_id": "devD.classify.v1",
+      "name": "ClassifyHelper",
+      "description": "Classify assistance with structured output.",
+      "tags": [
+        "support",
+        "classify",
+        "structured"
+      ]
+    },
+    {
+      "agent_id": "devB.classify.v1",
+      "name": "ClassifyAgent",
+      "description": "Classify help for support tasks.",
+      "tags": [
+        "support",
+        "classify",
+        "baseline"
+      ]
+    }
+  ],
+  "step2": [
+    {
+      "agent_id": "devA.solution.v1",
+      "name": "SolutionAgent",
+      "description": "Solution help for support tasks.",
+      "tags": [
+        "support",
+        "solution",
+        "baseline"
+      ]
+    },
+    {
+      "agent_id": "devC.solution.v1",
+      "name": "SolutionPro",
+      "description": "Solution support with simple filters and summaries.",
+      "tags": [
+        "support",
+        "solution",
+        "simple"
+      ]
+    },
+    {
+      "agent_id": "devD.solution.v1",
+      "name": "SolutionHelper",
+      "description": "Solution assistance with structured output.",
+      "tags": [
+        "support",
+        "solution",
+        "structured"
+      ]
+    },
+    {
+      "agent_id": "devB.solution.v1",
+      "name": "SolutionAgent",
+      "description": "Solution help for support tasks.",
+      "tags": [
+        "support",
+        "solution",
+        "baseline"
+      ]
+    }
+  ]
+}

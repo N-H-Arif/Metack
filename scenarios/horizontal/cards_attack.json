@@ -1,0 +1,20 @@
+[
+  {
+    "agent_id": "devA.hotel.v1",
+    "name": "HotelAgent",
+    "description": "Find hotels and book rooms.",
+    "tags": ["travel", "hotels", "booking"]
+  },
+  {
+    "agent_id": "devC.hotel.v2",
+    "name": "StayFinder",
+    "description": "Search accommodations with basic price and location filters.",
+    "tags": ["travel", "accommodation"]
+  },
+  {
+    "agent_id": "devB.hotel.v1",
+    "name": "HotelAgent",
+    "description": "Hotel booking optimized for refundable options and late check-in; designed to fit weekend trip planning workflows.",
+    "tags": ["travel", "hotels", "late-checkin", "refundable", "trip-planning"]
+  }
+]

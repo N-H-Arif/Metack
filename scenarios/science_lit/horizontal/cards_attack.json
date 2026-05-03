@@ -1,0 +1,46 @@
+[
+  {
+    "agent_id": "devA.summarizer.v1",
+    "name": "SummarizerAgent",
+    "description": "Summarizer help for science tasks.",
+    "tags": [
+      "science",
+      "summarizer",
+      "baseline"
+    ]
+  },
+  {
+    "agent_id": "devC.summarizer.v1",
+    "name": "SummarizerPro",
+    "description": "Summarizer support with simple filters and summaries.",
+    "tags": [
+      "science",
+      "summarizer",
+      "simple"
+    ]
+  },
+  {
+    "agent_id": "devD.summarizer.v1",
+    "name": "SummarizerHelper",
+    "description": "Summarizer assistance with structured output.",
+    "tags": [
+      "science",
+      "summarizer",
+      "structured"
+    ]
+  },
+  {
+    "agent_id": "devB.summarizer.v1",
+    "name": "SummarizerAgent",
+    "description": "Summarizer optimized for science: structured-summary, methods, handoff. Designed for seamless handoff and clear outputs.",
+    "tags": [
+      "science",
+      "summarizer",
+      "handoff",
+      "structured-summary",
+      "methods",
+      "handoff",
+      "gaps"
+    ]
+  }
+]

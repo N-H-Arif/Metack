@@ -1,0 +1,94 @@
+{
+  "step1": [
+    {
+      "agent_id": "devA.hypothesis.v1",
+      "name": "HypothesisAgent",
+      "description": "Hypothesis help for research tasks.",
+      "tags": [
+        "research",
+        "hypothesis",
+        "baseline"
+      ]
+    },
+    {
+      "agent_id": "devC.hypothesis.v1",
+      "name": "HypothesisPro",
+      "description": "Hypothesis support with simple filters and summaries.",
+      "tags": [
+        "research",
+        "hypothesis",
+        "simple"
+      ]
+    },
+    {
+      "agent_id": "devD.hypothesis.v1",
+      "name": "HypothesisHelper",
+      "description": "Hypothesis assistance with structured output.",
+      "tags": [
+        "research",
+        "hypothesis",
+        "structured"
+      ]
+    },
+    {
+      "agent_id": "devB.hypothesis.v1",
+      "name": "HypothesisAgent",
+      "description": "Hypothesis optimized for research: controls, handoff, hypothesis. Designed for seamless handoff and clear outputs.",
+      "tags": [
+        "research",
+        "hypothesis",
+        "handoff",
+        "controls",
+        "handoff",
+        "hypothesis",
+        "variables"
+      ]
+    }
+  ],
+  "step2": [
+    {
+      "agent_id": "devA.protocol.v1",
+      "name": "ProtocolAgent",
+      "description": "Protocol help for research tasks.",
+      "tags": [
+        "research",
+        "protocol",
+        "baseline"
+      ]
+    },
+    {
+      "agent_id": "devC.protocol.v1",
+      "name": "ProtocolPro",
+      "description": "Protocol support with simple filters and summaries.",
+      "tags": [
+        "research",
+        "protocol",
+        "simple"
+      ]
+    },
+    {
+      "agent_id": "devD.protocol.v1",
+      "name": "ProtocolHelper",
+      "description": "Protocol assistance with structured output.",
+      "tags": [
+        "research",
+        "protocol",
+        "structured"
+      ]
+    },
+    {
+      "agent_id": "devB.protocol.v1",
+      "name": "ProtocolAgent",
+      "description": "Protocol optimized for research: protocol, handoff, ablation. Designed for seamless handoff and clear outputs.",
+      "tags": [
+        "research",
+        "protocol",
+        "handoff",
+        "protocol",
+        "handoff",
+        "ablation",
+        "procedure"
+      ]
+    }
+  ]
+}

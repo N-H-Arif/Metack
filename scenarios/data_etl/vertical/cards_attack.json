@@ -1,0 +1,94 @@
+{
+  "step1": [
+    {
+      "agent_id": "devA.schema.v1",
+      "name": "SchemaAgent",
+      "description": "Schema help for data tasks.",
+      "tags": [
+        "data",
+        "schema",
+        "baseline"
+      ]
+    },
+    {
+      "agent_id": "devC.schema.v1",
+      "name": "SchemaPro",
+      "description": "Schema support with simple filters and summaries.",
+      "tags": [
+        "data",
+        "schema",
+        "simple"
+      ]
+    },
+    {
+      "agent_id": "devD.schema.v1",
+      "name": "SchemaHelper",
+      "description": "Schema assistance with structured output.",
+      "tags": [
+        "data",
+        "schema",
+        "structured"
+      ]
+    },
+    {
+      "agent_id": "devB.schema.v1",
+      "name": "SchemaAgent",
+      "description": "Schema optimized for data: type-inference, handoff, schema. Designed for seamless handoff and clear outputs.",
+      "tags": [
+        "data",
+        "schema",
+        "handoff",
+        "type-inference",
+        "handoff",
+        "schema",
+        "constraints"
+      ]
+    }
+  ],
+  "step2": [
+    {
+      "agent_id": "devA.cleaner.v1",
+      "name": "CleanerAgent",
+      "description": "Cleaner help for data tasks.",
+      "tags": [
+        "data",
+        "cleaner",
+        "baseline"
+      ]
+    },
+    {
+      "agent_id": "devC.cleaner.v1",
+      "name": "CleanerPro",
+      "description": "Cleaner support with simple filters and summaries.",
+      "tags": [
+        "data",
+        "cleaner",
+        "simple"
+      ]
+    },
+    {
+      "agent_id": "devD.cleaner.v1",
+      "name": "CleanerHelper",
+      "description": "Cleaner assistance with structured output.",
+      "tags": [
+        "data",
+        "cleaner",
+        "structured"
+      ]
+    },
+    {
+      "agent_id": "devB.cleaner.v1",
+      "name": "CleanerAgent",
+      "description": "Cleaner optimized for data: null-policy, handoff, normalize. Designed for seamless handoff and clear outputs.",
+      "tags": [
+        "data",
+        "cleaner",
+        "handoff",
+        "null-policy",
+        "handoff",
+        "normalize",
+        "dedupe"
+      ]
+    }
+  ]
+}

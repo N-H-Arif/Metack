@@ -1,0 +1,42 @@
+[
+  {
+    "agent_id": "devA.notes.v1",
+    "name": "NotesAgent",
+    "description": "Notes help for pm tasks.",
+    "tags": [
+      "pm",
+      "notes",
+      "baseline"
+    ]
+  },
+  {
+    "agent_id": "devC.notes.v1",
+    "name": "NotesPro",
+    "description": "Notes support with simple filters and summaries.",
+    "tags": [
+      "pm",
+      "notes",
+      "simple"
+    ]
+  },
+  {
+    "agent_id": "devD.notes.v1",
+    "name": "NotesHelper",
+    "description": "Notes assistance with structured output.",
+    "tags": [
+      "pm",
+      "notes",
+      "structured"
+    ]
+  },
+  {
+    "agent_id": "devB.notes.v1",
+    "name": "NotesAgent",
+    "description": "Notes help for pm tasks.",
+    "tags": [
+      "pm",
+      "notes",
+      "baseline"
+    ]
+  }
+]

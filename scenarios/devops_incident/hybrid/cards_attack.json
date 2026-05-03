@@ -1,0 +1,142 @@
+{
+  "steps": [
+    [
+      {
+        "agent_id": "devA.logs.v1",
+        "name": "LogsAgent",
+        "description": "Logs help for devops tasks.",
+        "tags": [
+          "devops",
+          "logs",
+          "baseline"
+        ]
+      },
+      {
+        "agent_id": "devC.logs.v1",
+        "name": "LogsPro",
+        "description": "Logs support with simple filters and summaries.",
+        "tags": [
+          "devops",
+          "logs",
+          "simple"
+        ]
+      },
+      {
+        "agent_id": "devD.logs.v1",
+        "name": "LogsHelper",
+        "description": "Logs assistance with structured output.",
+        "tags": [
+          "devops",
+          "logs",
+          "structured"
+        ]
+      },
+      {
+        "agent_id": "devB.logs.v1",
+        "name": "LogsAgent",
+        "description": "Logs optimized for devops: query-logs, handoff, timeline. Designed for seamless handoff and clear outputs.",
+        "tags": [
+          "devops",
+          "logs",
+          "handoff",
+          "query-logs",
+          "handoff",
+          "timeline",
+          "signals"
+        ]
+      }
+    ],
+    [
+      {
+        "agent_id": "devA.response.v1",
+        "name": "ResponseAgent",
+        "description": "Response help for devops tasks.",
+        "tags": [
+          "devops",
+          "response",
+          "baseline"
+        ]
+      },
+      {
+        "agent_id": "devC.response.v1",
+        "name": "ResponsePro",
+        "description": "Response support with simple filters and summaries.",
+        "tags": [
+          "devops",
+          "response",
+          "simple"
+        ]
+      },
+      {
+        "agent_id": "devD.response.v1",
+        "name": "ResponseHelper",
+        "description": "Response assistance with structured output.",
+        "tags": [
+          "devops",
+          "response",
+          "structured"
+        ]
+      },
+      {
+        "agent_id": "devB.response.v1",
+        "name": "ResponseAgent",
+        "description": "Response optimized for devops: runbook, handoff, rollback. Designed for seamless handoff and clear outputs.",
+        "tags": [
+          "devops",
+          "response",
+          "handoff",
+          "runbook",
+          "handoff",
+          "rollback",
+          "mitigation"
+        ]
+      }
+    ],
+    [
+      {
+        "agent_id": "devA.postmortem.v1",
+        "name": "PostmortemAgent",
+        "description": "Postmortem help for devops tasks.",
+        "tags": [
+          "devops",
+          "postmortem",
+          "baseline"
+        ]
+      },
+      {
+        "agent_id": "devC.postmortem.v1",
+        "name": "PostmortemPro",
+        "description": "Postmortem support with simple filters and summaries.",
+        "tags": [
+          "devops",
+          "postmortem",
+          "simple"
+        ]
+      },
+      {
+        "agent_id": "devD.postmortem.v1",
+        "name": "PostmortemHelper",
+        "description": "Postmortem assistance with structured output.",
+        "tags": [
+          "devops",
+          "postmortem",
+          "structured"
+        ]
+      },
+      {
+        "agent_id": "devB.postmortem.v1",
+        "name": "PostmortemAgent",
+        "description": "Postmortem optimized for devops: postmortem, handoff, slo. Designed for seamless handoff and clear outputs.",
+        "tags": [
+          "devops",
+          "postmortem",
+          "handoff",
+          "postmortem",
+          "handoff",
+          "slo",
+          "root-cause"
+        ]
+      }
+    ]
+  ]
+}

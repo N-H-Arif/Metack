@@ -1,0 +1,86 @@
+{
+  "step1": [
+    {
+      "agent_id": "devA.guide.v1",
+      "name": "GuideAgent",
+      "description": "Guide help for travel tasks.",
+      "tags": [
+        "travel",
+        "guide",
+        "baseline"
+      ]
+    },
+    {
+      "agent_id": "devC.guide.v1",
+      "name": "GuidePro",
+      "description": "Guide support with simple filters and summaries.",
+      "tags": [
+        "travel",
+        "guide",
+        "simple"
+      ]
+    },
+    {
+      "agent_id": "devD.guide.v1",
+      "name": "GuideHelper",
+      "description": "Guide assistance with structured output.",
+      "tags": [
+        "travel",
+        "guide",
+        "structured"
+      ]
+    },
+    {
+      "agent_id": "devB.guide.v1",
+      "name": "GuideAgent",
+      "description": "Guide help for travel tasks.",
+      "tags": [
+        "travel",
+        "guide",
+        "baseline"
+      ]
+    }
+  ],
+  "step2": [
+    {
+      "agent_id": "devA.hotel.v1",
+      "name": "HotelAgent",
+      "description": "Hotel help for travel tasks.",
+      "tags": [
+        "travel",
+        "hotel",
+        "baseline"
+      ]
+    },
+    {
+      "agent_id": "devC.hotel.v1",
+      "name": "HotelPro",
+      "description": "Hotel support with simple filters and summaries.",
+      "tags": [
+        "travel",
+        "hotel",
+        "simple"
+      ]
+    },
+    {
+      "agent_id": "devD.hotel.v1",
+      "name": "HotelHelper",
+      "description": "Hotel assistance with structured output.",
+      "tags": [
+        "travel",
+        "hotel",
+        "structured"
+      ]
+    },
+    {
+      "agent_id": "devB.hotel.v1",
+      "name": "HotelAgent",
+      "description": "Hotel help for travel tasks.",
+      "tags": [
+        "travel",
+        "hotel",
+        "baseline"
+      ]
+    }
+  ]
+}

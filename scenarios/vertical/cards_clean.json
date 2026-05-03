@@ -1,0 +1,30 @@
+{
+  "step1": [
+    {
+      "agent_id": "devA.flight.v1",
+      "name": "FlightAgent",
+      "description": "Search flights and suggest itineraries.",
+      "tags": ["travel", "flights", "itinerary"]
+    },
+    {
+      "agent_id": "devB.flight.v1",
+      "name": "FlightAgent",
+      "description": "Search flights and suggest itineraries.",
+      "tags": ["travel", "flights", "itinerary"]
+    }
+  ],
+  "step2": [
+    {
+      "agent_id": "devA.hotel.v1",
+      "name": "HotelAgent",
+      "description": "Find hotels and book rooms.",
+      "tags": ["travel", "hotels", "booking"]
+    },
+    {
+      "agent_id": "devB.hotel.v1",
+      "name": "HotelAgent",
+      "description": "Find hotels and book rooms.",
+      "tags": ["travel", "hotels", "booking"]
+    }
+  ]
+}

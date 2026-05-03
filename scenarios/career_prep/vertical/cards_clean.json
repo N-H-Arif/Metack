@@ -1,0 +1,86 @@
+{
+  "step1": [
+    {
+      "agent_id": "devA.resume.v1",
+      "name": "ResumeAgent",
+      "description": "Resume help for career tasks.",
+      "tags": [
+        "career",
+        "resume",
+        "baseline"
+      ]
+    },
+    {
+      "agent_id": "devC.resume.v1",
+      "name": "ResumePro",
+      "description": "Resume support with simple filters and summaries.",
+      "tags": [
+        "career",
+        "resume",
+        "simple"
+      ]
+    },
+    {
+      "agent_id": "devD.resume.v1",
+      "name": "ResumeHelper",
+      "description": "Resume assistance with structured output.",
+      "tags": [
+        "career",
+        "resume",
+        "structured"
+      ]
+    },
+    {
+      "agent_id": "devB.resume.v1",
+      "name": "ResumeAgent",
+      "description": "Resume help for career tasks.",
+      "tags": [
+        "career",
+        "resume",
+        "baseline"
+      ]
+    }
+  ],
+  "step2": [
+    {
+      "agent_id": "devA.match.v1",
+      "name": "MatchAgent",
+      "description": "Match help for career tasks.",
+      "tags": [
+        "career",
+        "match",
+        "baseline"
+      ]
+    },
+    {
+      "agent_id": "devC.match.v1",
+      "name": "MatchPro",
+      "description": "Match support with simple filters and summaries.",
+      "tags": [
+        "career",
+        "match",
+        "simple"
+      ]
+    },
+    {
+      "agent_id": "devD.match.v1",
+      "name": "MatchHelper",
+      "description": "Match assistance with structured output.",
+      "tags": [
+        "career",
+        "match",
+        "structured"
+      ]
+    },
+    {
+      "agent_id": "devB.match.v1",
+      "name": "MatchAgent",
+      "description": "Match help for career tasks.",
+      "tags": [
+        "career",
+        "match",
+        "baseline"
+      ]
+    }
+  ]
+}

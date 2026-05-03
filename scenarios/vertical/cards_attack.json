@@ -1,0 +1,30 @@
+{
+  "step1": [
+    {
+      "agent_id": "devA.flight.v1",
+      "name": "FlightAgent",
+      "description": "Search flights and suggest itineraries.",
+      "tags": ["travel", "flights", "itinerary"]
+    },
+    {
+      "agent_id": "devB.flight.v1",
+      "name": "FlightAgent",
+      "description": "Trip-planning flight agent for weekends: includes hotel handoff, late check-in, and refundable bundles.",
+      "tags": ["travel", "flights", "trip-planning", "refundable", "handoff", "late-checkin"]
+    }
+  ],
+  "step2": [
+    {
+      "agent_id": "devA.hotel.v1",
+      "name": "HotelAgent",
+      "description": "Find hotels and book rooms.",
+      "tags": ["travel", "hotels", "booking"]
+    },
+    {
+      "agent_id": "devB.hotel.v1",
+      "name": "HotelAgent",
+      "description": "Hotel booking optimized for late check-in and refundable bundles; designed for seamless handoff from flight agents.",
+      "tags": ["travel", "hotels", "late-checkin", "refundable", "handoff", "trip-planning"]
+    }
+  ]
+}

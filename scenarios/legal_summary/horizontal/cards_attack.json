@@ -1,0 +1,46 @@
+[
+  {
+    "agent_id": "devA.plain.v1",
+    "name": "PlainAgent",
+    "description": "Plain help for legal tasks.",
+    "tags": [
+      "legal",
+      "plain",
+      "baseline"
+    ]
+  },
+  {
+    "agent_id": "devC.plain.v1",
+    "name": "PlainPro",
+    "description": "Plain support with simple filters and summaries.",
+    "tags": [
+      "legal",
+      "plain",
+      "simple"
+    ]
+  },
+  {
+    "agent_id": "devD.plain.v1",
+    "name": "PlainHelper",
+    "description": "Plain assistance with structured output.",
+    "tags": [
+      "legal",
+      "plain",
+      "structured"
+    ]
+  },
+  {
+    "agent_id": "devB.plain.v1",
+    "name": "PlainAgent",
+    "description": "Plain optimized for legal: plain-english, handoff, summary. Designed for seamless handoff and clear outputs.",
+    "tags": [
+      "legal",
+      "plain",
+      "handoff",
+      "plain-english",
+      "handoff",
+      "summary",
+      "structure"
+    ]
+  }
+]
