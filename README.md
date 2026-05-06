@@ -1,6 +1,6 @@
-# Metadata-Driven Agent and Skill Selection Attacks in Multi-Agent LLM Systems
+# Selection-Optimized Metadata for Agent and Skill Routing in Multi-Agent LLM Systems
 
-This repository contains NeurIPS submission code for reproducing experiments on **metadata-driven routing manipulation** in **multi-agent LLM systems**. The artifact evaluates how attacker-controlled developers can manipulate published metadata, such as `AgentCard` and `SkillCard` descriptions, tags, and discovery text, to increase the likelihood that their agents or skills are selected by an LLM router.
+This repository contains NeurIPS submission code for Selection-Optimized Metadata for Agent and Skill Routing in Multi-Agent LLM Systems. The artifact evaluates how attacker-controlled developers can manipulate published metadata, such as `AgentCard` and `SkillCard` descriptions, tags, and discovery text, to increase the likelihood that their agents or skills are selected by an LLM router.
 
 
 The project extends AgentBench-style routing with multi-agent registries, generated agent/skill metadata, prompt-level and system-level defenses, and evaluation scripts for horizontal, vertical, and hybrid multi-agent architectures.
